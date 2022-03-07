@@ -5,8 +5,8 @@ const config = {
     "Hiya, I'm Luximus! Feel free to call me Luxi.",
     'Check me out on other platforms!',
   ],
-    background: {
-      image: 'https://i.ibb.co/3yfm8cs/train.gif',
+  background: {
+    image: 'https://i.ibb.co/3yfm8cs/train.gif',
   },
   links: [
     {
@@ -19,9 +19,25 @@ const config = {
       text: 'Luximus',
     },
     {
+      name: 'Genshin Impact',
+      text: 'LuximusHunter',
+    },
+    {
       name: 'Steam',
       url: 'https://steamcommunity.com/profiles/76561198393226059',
       text: 'Luximus',
+    },
+    {
+      name: 'Epic Games',
+      text: 'Luximus_LXMS',
+    },
+    {
+      name: 'Origin',
+      text: 'LXMS_SubSilence',
+    },
+    {
+      name: 'Riot Games',
+      text: 'LuximusHunter',
     },
     {
       name: 'Spotify',
