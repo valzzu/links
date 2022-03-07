@@ -77,11 +77,15 @@ body,
       cursor: pointer;
     }
 
-    .name {
+    .text {
+      opacity: 0.5;
       flex: 1;
+      text-align: right;
     }
 
-    .text {
+    svg {
+      height: 10px;
+      margin-left: 5px;
       opacity: 0.5;
     }
   }
