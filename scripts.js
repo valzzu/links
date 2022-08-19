@@ -11,43 +11,31 @@ const config = {
   links: [
     {
       name: 'Discord',
-      text: 'Luximus#2043',
+      text: 'valzzu#4823',
     },
     {
       name: 'VRChat',
-      url: 'https://vrchat.com/home/user/usr_d62468cf-a90b-4bc4-a4f9-c10133e35f2b',
-      text: 'Luximus',
-    },
-    {
-      name: 'Genshin Impact',
-      text: 'LuximusHunter',
+      url: 'https://vrchat.com/home/user/usr_5f4b5d18-d018-4cbe-8797-37912f821931',
+      text: 'valzzu',
     },
     {
       name: 'Steam',
-      url: 'https://steamcommunity.com/profiles/76561198393226059',
-      text: 'Luximus',
+      url: 'https://steamcommunity.com/id/valzzu_',
+      text: 'valzzu',
     },
     {
       name: 'Epic Games',
-      text: 'Luximus_LXMS',
-    },
-    {
-      name: 'Origin',
-      text: 'LXMS_SubSilence',
-    },
-    {
-      name: 'Riot Games',
-      text: 'LuximusHunter',
+      text: 'valzzu_gamer',
     },
     {
       name: 'Spotify',
-      url: 'https://open.spotify.com/user/yxmq93tlmfomm2ir62cs0bq0u?si=6b5fbb8557c84fba',
-      text: 'Luximus',
+      url: 'https://open.spotify.com/user/8hybxwciyn4yu4f24l6odwd9x',
+      text: 'valzzu',
     },
     {
       name: 'Github',
-      url: 'https://github.com/luximus-hunter',
-      text: 'luximus-hunter',
+      url: 'https://github.com/valzzu',
+      text: 'valzzu',
     },
   ],
   credit: true,
