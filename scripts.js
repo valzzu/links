@@ -1,8 +1,8 @@
 // config
 const config = {
-  title: "Luximus' links",
+  title: "valzzu's links",
   bio: [
-    "Hiya, I'm Luximus! Feel free to call me Luxi.",
+    "Hiya, I'm valzzu! Feel free to call me whats easier for you.",
     'Check me out on other platforms!',
   ],
   background: {
