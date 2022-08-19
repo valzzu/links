@@ -37,6 +37,11 @@ const config = {
       url: 'https://github.com/valzzu',
       text: 'valzzu',
     },
+    {
+      name: 'Youtube',
+      url: 'https://youtube.com/channel/UCRkt2qFMRpCJC2u5mCV7Srg',
+      text: 'valzzu gamer',
+    },
   ],
   credit: true,
 };
